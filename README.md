@@ -39,7 +39,7 @@ The **Transaction Handling** workflow ensures secure money transfers and account
 ---
 
 ## **🖼 Activity Diagram**
-![Activity Diagram] (https://github.com/revou-fsse-oct24/milestone-3-Radgerteenager/blob/main/Revo%20Bank%20Activity%20Diagram.jpg?raw=true)
+![Activity Diagram] (https://raw.githubusercontent.com/revou-fsse-oct24/milestone-3-Radgerteenager/refs/heads/main/Revo%20Bank%20Activity%20Diagram.jpg?token=GHSAT0AAAAAAC5DLX5UFO5Z26QE6FVKV324Z5YVPOA)
 
 
 ---
