@@ -37,9 +37,9 @@ The **Transaction Handling** workflow ensures secure money transfers and account
 ---
 
 ## **🖼 Activity Diagram**
-![Activity Diagram] (Revo Bank Activity Diagram.jpg)
+![RevoBank Activity Diagram](Revo%20Bank%20Activity%20Diagram.jpg)
 
 
 ---
-
+ 
 
