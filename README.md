@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/OEA-wQat)
-
 # 📌 RevoBank Activity Diagram
 
 This repository contains the **User Authentication** and **Transaction Handling** activity diagrams for **RevoBank**.
@@ -39,7 +37,7 @@ The **Transaction Handling** workflow ensures secure money transfers and account
 ---
 
 ## **🖼 Activity Diagram**
-![Activity Diagram] (https://raw.githubusercontent.com/revou-fsse-oct24/milestone-3-Radgerteenager/refs/heads/main/Revo%20Bank%20Activity%20Diagram.jpg?token=GHSAT0AAAAAAC5DLX5UFO5Z26QE6FVKV324Z5YVPOA)
+![Activity Diagram] (Revo Bank Activity Diagram.jpg)
 
 
 ---
